@@ -69,7 +69,7 @@
       "defaultValue": "Standard_D2_v3",
       "allowedValues": [
         "Standard_D2_v3",
-        "Standard_A2_v2",
+        "Standard_A2_v2"
       ],
       "metadata": {
         "description": "Size of the virtual machine."
